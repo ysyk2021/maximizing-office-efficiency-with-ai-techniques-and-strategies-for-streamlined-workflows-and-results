@@ -1,5 +1,3 @@
-AI-powered Predictive Analytics for Forecasting and Risk Management
-===============================================================================================================
 
 One of the key benefits of AI in promoting office efficiency is its ability to analyze large amounts of data quickly and accurately. In this chapter, we will explore the role of AI-powered predictive analytics in forecasting and risk management.
 

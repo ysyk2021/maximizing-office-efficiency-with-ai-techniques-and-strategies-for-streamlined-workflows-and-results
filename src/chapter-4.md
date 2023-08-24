@@ -1,5 +1,3 @@
-Chapter 3: Leveraging Machine Learning for Personalized Productivity Support
-============================================================================
 
 Machine learning-powered tools can provide personalized support for task management, scheduling, reminders, and workflow optimization. In this chapter, we will explore how to leverage machine learning for personalized productivity support.
 

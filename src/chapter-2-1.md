@@ -1,5 +1,3 @@
-What is AI and How Does it Work?
-=======================================================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that has the potential to revolutionize office efficiency. AI-powered tools and techniques can help automate routine tasks, streamline workflows, and provide personalized support for task management and scheduling. In this chapter, we will explore what AI is and how it works.
 

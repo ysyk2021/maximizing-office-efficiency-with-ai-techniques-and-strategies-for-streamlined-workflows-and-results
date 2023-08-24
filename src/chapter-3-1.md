@@ -1,5 +1,3 @@
-Steps for Creating a Personalized Workflow Plan
-===================================================================================================
 
 Creating an AI-powered workflow plan requires careful planning and consideration of individual needs and goals. In this chapter, we will explore the steps for creating a personalized workflow plan.
 
