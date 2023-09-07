@@ -6,3 +6,7 @@ The book begins by providing an overview of AI technology and its potential appl
 Maximizing Office Efficiency with AI is designed for business leaders, managers, and professionals who are interested in improving office efficiency and productivity through the use of AI-powered tools and techniques. Whether you are new to AI or an experienced practitioner, this book will provide valuable insights and practical advice for incorporating AI into your office workflows and achieving optimal results.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
