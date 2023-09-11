@@ -1,5 +1,4 @@
-Chapter 8: Setting Realistic Goals and Tracking Progress on Your Workflow Optimization Journey
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of setting realistic goals and tracking progress when embarking on a workflow optimization journey. By establishing clear objectives and monitoring advancements, organizations can effectively maximize office efficiency using AI techniques and strategies.
 

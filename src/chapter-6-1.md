@@ -1,5 +1,4 @@
-Chapter 8: Addressing Concerns about Privacy and Security when Using AI in Office Efficiency Practices
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical considerations surrounding privacy and security when implementing AI techniques and strategies for office efficiency. As organizations adopt AI technologies to streamline workflows and achieve optimal results, it is crucial to address potential risks and ensure that privacy and security measures are in place to protect sensitive data and maintain trust among employees and stakeholders.
 

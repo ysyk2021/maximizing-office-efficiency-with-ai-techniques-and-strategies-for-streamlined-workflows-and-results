@@ -1,5 +1,4 @@
-Chapter 6: Personalizing Data Analysis with Machine Learning
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the topic of personalizing data analysis using machine learning techniques. We will explore how organizations can leverage machine learning algorithms to gain deeper insights from their data, tailor analysis to individual needs, and make data-driven decisions that drive office efficiency.
 
